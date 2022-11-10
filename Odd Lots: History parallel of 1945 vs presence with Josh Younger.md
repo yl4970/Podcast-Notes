@@ -6,5 +6,5 @@ Link: https://podcasts.apple.com/us/podcast/odd-lots/id1056200096?i=100058530417
 ```
 ### Background
 In 2022, Fed put out a set of aggressive monetary policy to combat inflation, after two years of "easy money" policy.
-  - "Easy money" policy consists of [low interest rate] and [intervention 
+  - "Easy money" policy consists of [low interest rate] and [intervention] 
   - 
